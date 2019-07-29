@@ -2,3 +2,8 @@
 	path = rlfss/TEST29-7
 	url = git@github.com:rlfss/TEST29-7.git
 	branch = M1
+
+[submodule "zaidkilani/royalline-addons"]
+	path = zaidkilani/royalline-addons
+	url = git@github.com:zaidkilani/royalline-addons.git
+	branch = master
