@@ -1,0 +1,4 @@
+[submodule "rlfss/TEST29-7"]
+	path = rlfss/TEST29-7
+	url = git@github.com:rlfss/TEST29-7.git
+	branch = M1
