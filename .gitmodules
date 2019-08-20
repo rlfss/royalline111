@@ -52,3 +52,8 @@
 	path = rlfss/royalapp
 	url = git@github.com:rlfss/royalapp.git
 	branch = master
+
+[submodule "zaidkilani/royalline-addons7"]
+	path = zaidkilani/royalline-addons7
+	url = git@github.com:zaidkilani/royalline-addons.git
+	branch = master
